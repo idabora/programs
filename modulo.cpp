@@ -6,4 +6,5 @@ int main(){
   cout<<"enter two numbers";
   cin>>a>>b;
   cout<<"the remainder  is "<<a%b;
+  return 0;
 }
